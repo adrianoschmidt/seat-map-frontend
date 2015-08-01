@@ -1,0 +1,5 @@
+.project
+webapp/app
+ng-app/.tmp
+ng-app/node_modules
+ng-app/bower_components
