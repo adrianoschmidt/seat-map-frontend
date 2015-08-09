@@ -2,8 +2,6 @@
 
 This is the frontend of the seat-map project
 
-This project is generated with yo angular generator (https://github.com/yeoman/generator-angular) version 0.11.1.
-
 To use this project:
 
 1) Clone the repository
@@ -15,3 +13,8 @@ To use this project:
 4) bower install
 
 5) grunt serve --force
+
+Pre-requisites:
+- Install nodejs (download and install)
+- npm install -g bower
+- npm install -g grunt-cli
